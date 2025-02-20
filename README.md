@@ -6,8 +6,6 @@ Este projeto é um **exemplo básico** de uma API para gerenciar filmes em uma l
 **Este projeto é apenas um exemplo simples e básico** e pode ser expandido ou adaptado conforme necessário para projetos mais complexos.
 
 
-A API estará disponível em `http://localhost:5000`.
-
 ## Funcionalidades
 
 A API oferece os seguintes endpoints:
@@ -40,7 +38,7 @@ Desativa um filme.
 A documentação interativa da API está disponível via Swagger. Quando rodando a API localmente, acesse:
 
 ```
-http://localhost:5000/swagger
+
 ```
 
 ## Estrutura do Projeto
